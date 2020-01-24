@@ -1,6 +1,6 @@
 package main
 
-// Hello is a simple example function, changed 2
+// Hello is a simple example function, changed
 func Hello() string {
-	return "Hello"
+	return "Hello, World"
 }
